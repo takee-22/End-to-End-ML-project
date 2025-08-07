@@ -4,7 +4,7 @@ from dataclasses import dataclass
 
 from catboost import CatBoostRegressor
 from sklearn.ensemble import (
-    AdaBoostRegressor,
+    AdaBoostRegressor, 
     GradientBoostingRegressor,
     RandomForestRegressor,
 )
